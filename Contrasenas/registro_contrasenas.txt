@@ -1,0 +1,10 @@
+Contraseña: Shango2013$$ | Validación de longitud: Válida
+Contraseña: Shango2013$$ | Validación de numeros: Válida
+Contraseña: Shango2013$$ | Validación de caracterEspecial: Válida
+Contraseña: Shango2013$$ | Validación de mayusculas: Inválida
+Contraseña: Shango2013$$ | Validación de minusculas: Válida
+Contraseña: Elena282# | Validación de numeros: Válida
+Contraseña: Elena282# | Validación de minusculas: Válida
+Contraseña: Elena282# | Validación de mayusculas: Inválida
+Contraseña: Elena282# | Validación de caracterEspecial: Válida
+Contraseña: Elena282# | Validación de longitud: Válida
